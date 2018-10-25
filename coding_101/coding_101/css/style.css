@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css?family=Hind:500,600,700');
+body {
+  background-color: white;
+  color: #2A2929;
+  font-family: 'Hind', sans-serif;
+  text-align: center;
+}
+
+h1 {
+  color: #2A2929;
+  text-align: center;
+  style: bold;
+  text-transform: capitalize;
+}
+
+h2 {
+  text-align: center;
+}
+
+.sizeimages {
+  height: 250px;
+  padding: 10px;
+  display: inline-block;
+}
+
+#centerimages {
+  text-align: center;
+}
+
+#centertext {
+  text-align: center;
+}
+
+#iglink {
+  text-align: center;
+  margin: 1000px;
+  position: relative;border-bottom:
+}
+
+li {
+  width: 300px;
+  display: inline-block;
+}
+
+ul {
+  text-align: center;
+}
